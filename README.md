@@ -8,7 +8,7 @@
 
 
 ## week 2 (18 Feb)
-- Numpy & Pandas basics; data cleaning 
+- Pandas basics; data cleaning 
 - Sklearn; machine learning basics
 
 
