@@ -20,14 +20,13 @@
 - Web basics 
 
 ## week 5 (11 Mar) 
-- API (Twitter example)
-- Web crawling 
+- Twitter API
 
 ## week 6 (18 Mar)
-- Text: cleaning; exploratory analysis 
+- Web crawling
 
 ## week 7 (25 Mar)
-- Text: dictionary; supervised learning 
+- Text: cleaning; exploratory analysis
 
 ## week 8 (1 Apr)
 - Text: topic modelling
