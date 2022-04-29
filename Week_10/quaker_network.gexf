@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2022-04-22">
-    <creator>NetworkX 2.8</creator>
+  <meta lastmodifieddate="2022-04-28">
+    <creator>NetworkX 2.5</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes mode="static" class="node">
@@ -11,7 +11,6 @@
       <attribute id="3" title="death_year" type="string" />
       <attribute id="4" title="sdfb_id" type="string" />
       <attribute id="5" title="degree" type="long" />
-      <attribute id="6" title="modularity" type="long" />
     </attributes>
     <nodes>
       <node id="Joseph Wyeth" label="Joseph Wyeth">
@@ -22,7 +21,6 @@
           <attvalue for="3" value="1731" />
           <attvalue for="4" value="10013191" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Alexander Skene of Newtyle" label="Alexander Skene of Newtyle">
@@ -33,7 +31,6 @@
           <attvalue for="3" value="1694" />
           <attvalue for="4" value="10011149" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="8" />
         </attvalues>
       </node>
       <node id="James Logan" label="James Logan">
@@ -44,7 +41,6 @@
           <attvalue for="3" value="1751" />
           <attvalue for="4" value="10007567" />
           <attvalue for="5" value="4" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Dorcas Erbery" label="Dorcas Erbery">
@@ -55,7 +51,6 @@
           <attvalue for="3" value="1659" />
           <attvalue for="4" value="10003983" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="Lilias Skene" label="Lilias Skene">
@@ -66,7 +61,6 @@
           <attvalue for="3" value="1697" />
           <attvalue for="4" value="10011152" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="8" />
         </attvalues>
       </node>
       <node id="William Mucklow" label="William Mucklow">
@@ -77,7 +71,6 @@
           <attvalue for="3" value="1713" />
           <attvalue for="4" value="10008595" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Thomas Salthouse" label="Thomas Salthouse">
@@ -88,7 +81,6 @@
           <attvalue for="3" value="1691" />
           <attvalue for="4" value="10010643" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="William Dewsbury" label="William Dewsbury">
@@ -99,7 +91,6 @@
           <attvalue for="3" value="1688" />
           <attvalue for="4" value="10003478" />
           <attvalue for="5" value="3" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="John Audland" label="John Audland">
@@ -110,7 +101,6 @@
           <attvalue for="3" value="1664" />
           <attvalue for="4" value="10000411" />
           <attvalue for="5" value="6" />
-          <attvalue for="6" value="6" />
         </attvalues>
       </node>
       <node id="Richard Claridge" label="Richard Claridge">
@@ -121,7 +111,6 @@
           <attvalue for="3" value="1723" />
           <attvalue for="4" value="10002469" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="William Bradford" label="William Bradford">
@@ -132,7 +121,6 @@
           <attvalue for="3" value="1752" />
           <attvalue for="4" value="10001445" />
           <attvalue for="5" value="3" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Fettiplace Bellers" label="Fettiplace Bellers">
@@ -143,7 +131,6 @@
           <attvalue for="3" value="1750" />
           <attvalue for="4" value="10000933" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="9" />
         </attvalues>
       </node>
       <node id="John Bellers" label="John Bellers">
@@ -154,7 +141,6 @@
           <attvalue for="3" value="1725" />
           <attvalue for="4" value="10000934" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="9" />
         </attvalues>
       </node>
       <node id="Isabel Yeamans" label="Isabel Yeamans">
@@ -165,7 +151,6 @@
           <attvalue for="3" value="1704" />
           <attvalue for="4" value="10013226" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="George Fox the younger" label="George Fox the younger">
@@ -176,7 +161,6 @@
           <attvalue for="3" value="1661" />
           <attvalue for="4" value="10004523" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="George Fox" label="George Fox">
@@ -187,7 +171,6 @@
           <attvalue for="3" value="1691" />
           <attvalue for="4" value="10004524" />
           <attvalue for="5" value="22" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="John Stubbs" label="John Stubbs">
@@ -198,7 +181,6 @@
           <attvalue for="3" value="1675" />
           <attvalue for="4" value="10011695" />
           <attvalue for="5" value="5" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="Anne Camm" label="Anne Camm">
@@ -209,7 +191,6 @@
           <attvalue for="3" value="1705" />
           <attvalue for="4" value="10001967" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="6" />
         </attvalues>
       </node>
       <node id="John Camm" label="John Camm">
@@ -220,7 +201,6 @@
           <attvalue for="3" value="1657" />
           <attvalue for="4" value="10001968" />
           <attvalue for="5" value="4" />
-          <attvalue for="6" value="6" />
         </attvalues>
       </node>
       <node id="Thomas Camm" label="Thomas Camm">
@@ -231,7 +211,6 @@
           <attvalue for="3" value="1708" />
           <attvalue for="4" value="10001969" />
           <attvalue for="5" value="3" />
-          <attvalue for="6" value="6" />
         </attvalues>
       </node>
       <node id="Katharine Evans" label="Katharine Evans">
@@ -242,7 +221,6 @@
           <attvalue for="3" value="1692" />
           <attvalue for="4" value="10004036" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="16" />
         </attvalues>
       </node>
       <node id="Lydia Lancaster" label="Lydia Lancaster">
@@ -253,7 +231,6 @@
           <attvalue for="3" value="1761" />
           <attvalue for="4" value="10007110" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="10" />
         </attvalues>
       </node>
       <node id="Samuel Clarridge" label="Samuel Clarridge">
@@ -264,7 +241,6 @@
           <attvalue for="3" value="1704" />
           <attvalue for="4" value="10002504" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Thomas Lower" label="Thomas Lower">
@@ -275,7 +251,6 @@
           <attvalue for="3" value="1720" />
           <attvalue for="4" value="10007626" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="Gervase Benson" label="Gervase Benson">
@@ -286,7 +261,6 @@
           <attvalue for="3" value="1679" />
           <attvalue for="4" value="10000972" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="Stephen Crisp" label="Stephen Crisp">
@@ -297,7 +271,6 @@
           <attvalue for="3" value="1692" />
           <attvalue for="4" value="10003022" />
           <attvalue for="5" value="3" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="James Claypoole" label="James Claypoole">
@@ -308,7 +281,6 @@
           <attvalue for="3" value="1687" />
           <attvalue for="4" value="10002513" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Thomas Holme" label="Thomas Holme">
@@ -319,7 +291,6 @@
           <attvalue for="3" value="1666" />
           <attvalue for="4" value="10006100" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="John Freame" label="John Freame">
@@ -330,7 +301,6 @@
           <attvalue for="3" value="1745" />
           <attvalue for="4" value="10004564" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="11" />
         </attvalues>
       </node>
       <node id="John Swinton" label="John Swinton">
@@ -341,7 +311,6 @@
           <attvalue for="3" value="1679" />
           <attvalue for="4" value="10011742" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="William Mead" label="William Mead">
@@ -352,7 +321,6 @@
           <attvalue for="3" value="1713" />
           <attvalue for="4" value="10008161" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Henry Pickworth" label="Henry Pickworth">
@@ -363,7 +331,6 @@
           <attvalue for="3" value="1738" />
           <attvalue for="4" value="10009697" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="John Crook" label="John Crook">
@@ -374,7 +341,6 @@
           <attvalue for="3" value="1699" />
           <attvalue for="4" value="10003063" />
           <attvalue for="5" value="4" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Gilbert Latey" label="Gilbert Latey">
@@ -385,7 +351,6 @@
           <attvalue for="3" value="1705" />
           <attvalue for="4" value="10007166" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="Ellis Hookes" label="Ellis Hookes">
@@ -396,7 +361,6 @@
           <attvalue for="3" value="1681" />
           <attvalue for="4" value="10006146" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Joseph Besse" label="Joseph Besse">
@@ -407,7 +371,6 @@
           <attvalue for="3" value="1757" />
           <attvalue for="4" value="10001027" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="James Nayler" label="James Nayler">
@@ -418,7 +381,6 @@
           <attvalue for="3" value="1660" />
           <attvalue for="4" value="10008713" />
           <attvalue for="5" value="16" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="Elizabeth Hooten" label="Elizabeth Hooten">
@@ -429,7 +391,6 @@
           <attvalue for="3" value="1672" />
           <attvalue for="4" value="10006153" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="George Whitehead" label="George Whitehead">
@@ -440,7 +401,6 @@
           <attvalue for="3" value="1724" />
           <attvalue for="4" value="10012813" />
           <attvalue for="5" value="13" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="John Whitehead" label="John Whitehead">
@@ -451,7 +411,6 @@
           <attvalue for="3" value="1696" />
           <attvalue for="4" value="10012815" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="William Crouch" label="William Crouch">
@@ -462,7 +421,6 @@
           <attvalue for="3" value="1711" />
           <attvalue for="4" value="10003087" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Benjamin Furly" label="Benjamin Furly">
@@ -473,7 +431,6 @@
           <attvalue for="3" value="1714" />
           <attvalue for="4" value="10004625" />
           <attvalue for="5" value="10" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="Silvanus Bevan" label="Silvanus Bevan">
@@ -484,7 +441,6 @@
           <attvalue for="3" value="1765" />
           <attvalue for="4" value="10001041" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="Robert Rich" label="Robert Rich">
@@ -495,7 +451,6 @@
           <attvalue for="3" value="1679" />
           <attvalue for="4" value="10010260" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="John Whiting" label="John Whiting">
@@ -506,7 +461,6 @@
           <attvalue for="3" value="1722" />
           <attvalue for="4" value="10012829" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="7" />
         </attvalues>
       </node>
       <node id="Christopher Taylor" label="Christopher Taylor">
@@ -517,7 +471,6 @@
           <attvalue for="3" value="1686" />
           <attvalue for="4" value="10011811" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="7" />
         </attvalues>
       </node>
       <node id="Thomas Lawson" label="Thomas Lawson">
@@ -528,7 +481,6 @@
           <attvalue for="3" value="1691" />
           <attvalue for="4" value="10007210" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="Richard Farnworth" label="Richard Farnworth">
@@ -539,7 +491,6 @@
           <attvalue for="3" value="1666" />
           <attvalue for="4" value="10004141" />
           <attvalue for="5" value="6" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="William Coddington" label="William Coddington">
@@ -550,7 +501,6 @@
           <attvalue for="3" value="1678" />
           <attvalue for="4" value="10002606" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Thomas Taylor" label="Thomas Taylor">
@@ -561,7 +511,6 @@
           <attvalue for="3" value="1682" />
           <attvalue for="4" value="10011824" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="7" />
         </attvalues>
       </node>
       <node id="Richard Vickris" label="Richard Vickris">
@@ -572,7 +521,6 @@
           <attvalue for="3" value="1700" />
           <attvalue for="4" value="10012350" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="12" />
         </attvalues>
       </node>
       <node id="Robert Barclay" label="Robert Barclay">
@@ -583,7 +531,6 @@
           <attvalue for="3" value="1690" />
           <attvalue for="4" value="10054848" />
           <attvalue for="5" value="3" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="Jane Sowle" label="Jane Sowle">
@@ -594,7 +541,6 @@
           <attvalue for="3" value="1711" />
           <attvalue for="4" value="10011331" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Tace Sowle" label="Tace Sowle">
@@ -605,7 +551,6 @@
           <attvalue for="3" value="1749" />
           <attvalue for="4" value="10011332" />
           <attvalue for="5" value="3" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Leonard Fell" label="Leonard Fell">
@@ -616,7 +561,6 @@
           <attvalue for="3" value="1701" />
           <attvalue for="4" value="10004169" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Margaret Fell" label="Margaret Fell">
@@ -627,7 +571,6 @@
           <attvalue for="3" value="1702" />
           <attvalue for="4" value="10004170" />
           <attvalue for="5" value="13" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="George Bishop" label="George Bishop">
@@ -638,7 +581,6 @@
           <attvalue for="3" value="1668" />
           <attvalue for="4" value="10001097" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="12" />
         </attvalues>
       </node>
       <node id="Elizabeth Leavens" label="Elizabeth Leavens">
@@ -649,7 +591,6 @@
           <attvalue for="3" value="1665" />
           <attvalue for="4" value="10007246" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="Thomas Curtis" label="Thomas Curtis">
@@ -660,7 +601,6 @@
           <attvalue for="3" value="1712" />
           <attvalue for="4" value="10003161" />
           <attvalue for="5" value="5" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Alice Curwen" label="Alice Curwen">
@@ -671,7 +611,6 @@
           <attvalue for="3" value="1679" />
           <attvalue for="4" value="10003162" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="Alexander Parker" label="Alexander Parker">
@@ -682,7 +621,6 @@
           <attvalue for="3" value="1689" />
           <attvalue for="4" value="10009307" />
           <attvalue for="5" value="6" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="John Wilkinson" label="John Wilkinson">
@@ -693,7 +631,6 @@
           <attvalue for="3" value="1683" />
           <attvalue for="4" value="10012893" />
           <attvalue for="5" value="5" />
-          <attvalue for="6" value="6" />
         </attvalues>
       </node>
       <node id="Thomas Aldam" label="Thomas Aldam">
@@ -704,7 +641,6 @@
           <attvalue for="3" value="1660" />
           <attvalue for="4" value="10000099" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="David Barclay of Ury" label="David Barclay of Ury">
@@ -715,7 +651,6 @@
           <attvalue for="3" value="1686" />
           <attvalue for="4" value="10000621" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="David Barclay" label="David Barclay">
@@ -726,7 +661,6 @@
           <attvalue for="3" value="1769" />
           <attvalue for="4" value="10000622" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="11" />
         </attvalues>
       </node>
       <node id="Sir Charles Wager" label="Sir Charles Wager">
@@ -737,7 +671,6 @@
           <attvalue for="3" value="1743" />
           <attvalue for="4" value="10012403" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="George Keith" label="George Keith">
@@ -748,7 +681,6 @@
           <attvalue for="3" value="1716" />
           <attvalue for="4" value="10006784" />
           <attvalue for="5" value="8" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="James Parnel" label="James Parnel">
@@ -759,7 +691,6 @@
           <attvalue for="3" value="1656" />
           <attvalue for="4" value="10009347" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="Peter Collinson" label="Peter Collinson">
@@ -770,7 +701,6 @@
           <attvalue for="3" value="1768" />
           <attvalue for="4" value="10002694" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Franciscus Mercurius van Helmont" label="Franciscus Mercurius van Helmont">
@@ -781,7 +711,6 @@
           <attvalue for="3" value="1698" />
           <attvalue for="4" value="10005781" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="William Caton" label="William Caton">
@@ -792,7 +721,6 @@
           <attvalue for="3" value="1665" />
           <attvalue for="4" value="10002203" />
           <attvalue for="5" value="5" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="Francis Howgill" label="Francis Howgill">
@@ -803,7 +731,6 @@
           <attvalue for="3" value="1669" />
           <attvalue for="4" value="10006305" />
           <attvalue for="5" value="7" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="Richard Hubberthorne" label="Richard Hubberthorne">
@@ -814,7 +741,6 @@
           <attvalue for="3" value="1662" />
           <attvalue for="4" value="10006314" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="William Ames" label="William Ames">
@@ -825,7 +751,6 @@
           <attvalue for="3" value="1662" />
           <attvalue for="4" value="10000175" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="William Rogers" label="William Rogers">
@@ -836,7 +761,6 @@
           <attvalue for="3" value="1711" />
           <attvalue for="4" value="10010417" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Isaac Norris" label="Isaac Norris">
@@ -847,7 +771,6 @@
           <attvalue for="3" value="1735" />
           <attvalue for="4" value="10008884" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Anthony Sharp" label="Anthony Sharp">
@@ -858,7 +781,6 @@
           <attvalue for="3" value="1707" />
           <attvalue for="4" value="10010941" />
           <attvalue for="5" value="3" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Mary Fisher" label="Mary Fisher">
@@ -869,7 +791,6 @@
           <attvalue for="3" value="1698" />
           <attvalue for="4" value="10004290" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Anne Conway Viscountess Conway and Killultagh" label="Anne Conway Viscountess Conway and Killultagh">
@@ -880,7 +801,6 @@
           <attvalue for="3" value="1679" />
           <attvalue for="4" value="10002755" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Samuel Fisher" label="Samuel Fisher">
@@ -891,7 +811,6 @@
           <attvalue for="3" value="1665" />
           <attvalue for="4" value="10004292" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="5" />
         </attvalues>
       </node>
       <node id="Francis Bugg" label="Francis Bugg">
@@ -902,7 +821,6 @@
           <attvalue for="3" value="1727" />
           <attvalue for="4" value="10001737" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="Sarah Gibbons" label="Sarah Gibbons">
@@ -913,7 +831,6 @@
           <attvalue for="3" value="1659" />
           <attvalue for="4" value="10004811" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="13" />
         </attvalues>
       </node>
       <node id="William Tomlinson" label="William Tomlinson">
@@ -924,7 +841,6 @@
           <attvalue for="3" value="1696" />
           <attvalue for="4" value="10011989" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="Humphrey Norton" label="Humphrey Norton">
@@ -935,7 +851,6 @@
           <attvalue for="3" value="1660" />
           <attvalue for="4" value="10008917" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="15" />
         </attvalues>
       </node>
       <node id="William Gibson" label="William Gibson">
@@ -946,7 +861,6 @@
           <attvalue for="3" value="1684" />
           <attvalue for="4" value="10004827" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="Gideon Wanton" label="Gideon Wanton">
@@ -957,7 +871,6 @@
           <attvalue for="3" value="1767" />
           <attvalue for="4" value="10012509" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="14" />
         </attvalues>
       </node>
       <node id="John Wanton" label="John Wanton">
@@ -968,7 +881,6 @@
           <attvalue for="3" value="1740" />
           <attvalue for="4" value="10012510" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="14" />
         </attvalues>
       </node>
       <node id="Grace Chamber" label="Grace Chamber">
@@ -979,7 +891,6 @@
           <attvalue for="3" value="1762" />
           <attvalue for="4" value="10002274" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="10" />
         </attvalues>
       </node>
       <node id="Mary Prince" label="Mary Prince">
@@ -990,7 +901,6 @@
           <attvalue for="3" value="1679" />
           <attvalue for="4" value="10009959" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="John Bartram" label="John Bartram">
@@ -1001,7 +911,6 @@
           <attvalue for="3" value="1777" />
           <attvalue for="4" value="10000745" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Edward Haistwell" label="Edward Haistwell">
@@ -1012,7 +921,6 @@
           <attvalue for="3" value="1709" />
           <attvalue for="4" value="10005359" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="John ap John" label="John ap John">
@@ -1023,7 +931,6 @@
           <attvalue for="3" value="1697" />
           <attvalue for="4" value="10000243" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="John Rous" label="John Rous">
@@ -1034,7 +941,6 @@
           <attvalue for="3" value="1695" />
           <attvalue for="4" value="10010488" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="15" />
         </attvalues>
       </node>
       <node id="Anthony Pearson" label="Anthony Pearson">
@@ -1045,7 +951,6 @@
           <attvalue for="3" value="1666" />
           <attvalue for="4" value="10009470" />
           <attvalue for="5" value="5" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="Solomon Eccles" label="Solomon Eccles">
@@ -1056,7 +961,6 @@
           <attvalue for="3" value="1682" />
           <attvalue for="4" value="10003859" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="6" />
         </attvalues>
       </node>
       <node id="John Burnyeat" label="John Burnyeat">
@@ -1067,7 +971,6 @@
           <attvalue for="3" value="1690" />
           <attvalue for="4" value="10001815" />
           <attvalue for="5" value="4" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Edward Burrough" label="Edward Burrough">
@@ -1078,7 +981,6 @@
           <attvalue for="3" value="1663" />
           <attvalue for="4" value="10001818" />
           <attvalue for="5" value="9" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Rebecca Travers" label="Rebecca Travers">
@@ -1089,7 +991,6 @@
           <attvalue for="3" value="1688" />
           <attvalue for="4" value="10012062" />
           <attvalue for="5" value="4" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="William Edmundson" label="William Edmundson">
@@ -1100,7 +1001,6 @@
           <attvalue for="3" value="1712" />
           <attvalue for="4" value="10003882" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Sarah Cheevers" label="Sarah Cheevers">
@@ -1111,7 +1011,6 @@
           <attvalue for="3" value="1664" />
           <attvalue for="4" value="10002354" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="16" />
         </attvalues>
       </node>
       <node id="Edward Pyott" label="Edward Pyott">
@@ -1122,7 +1021,6 @@
           <attvalue for="3" value="1670" />
           <attvalue for="4" value="10010036" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="6" />
         </attvalues>
       </node>
       <node id="Daniel Quare" label="Daniel Quare">
@@ -1133,7 +1031,6 @@
           <attvalue for="3" value="1724" />
           <attvalue for="4" value="10010037" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="John Penington" label="John Penington">
@@ -1144,7 +1041,6 @@
           <attvalue for="3" value="1710" />
           <attvalue for="4" value="10009526" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Mary Penington" label="Mary Penington">
@@ -1155,7 +1051,6 @@
           <attvalue for="3" value="1682" />
           <attvalue for="4" value="10009527" />
           <attvalue for="5" value="4" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Charles Marshall" label="Charles Marshall">
@@ -1166,7 +1061,6 @@
           <attvalue for="3" value="1698" />
           <attvalue for="4" value="10007992" />
           <attvalue for="5" value="3" />
-          <attvalue for="6" value="6" />
         </attvalues>
       </node>
       <node id="Humphrey Woolrich" label="Humphrey Woolrich">
@@ -1177,7 +1071,6 @@
           <attvalue for="3" value="1707" />
           <attvalue for="4" value="10013112" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="17" />
         </attvalues>
       </node>
       <node id="William Penn" label="William Penn">
@@ -1188,7 +1081,6 @@
           <attvalue for="3" value="1718" />
           <attvalue for="4" value="10009531" />
           <attvalue for="5" value="18" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Mary Pennyman" label="Mary Pennyman">
@@ -1199,7 +1091,6 @@
           <attvalue for="3" value="1701" />
           <attvalue for="4" value="10009535" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="17" />
         </attvalues>
       </node>
       <node id="Dorothy Waugh" label="Dorothy Waugh">
@@ -1210,7 +1101,6 @@
           <attvalue for="3" value="1666" />
           <attvalue for="4" value="10012614" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="13" />
         </attvalues>
       </node>
       <node id="David Lloyd" label="David Lloyd">
@@ -1221,7 +1111,6 @@
           <attvalue for="3" value="1731" />
           <attvalue for="4" value="10007509" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Lewis Morris" label="Lewis Morris">
@@ -1232,7 +1121,6 @@
           <attvalue for="3" value="1746" />
           <attvalue for="4" value="10008534" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="3" />
         </attvalues>
       </node>
       <node id="Martha Simmonds" label="Martha Simmonds">
@@ -1243,7 +1131,6 @@
           <attvalue for="3" value="1665" />
           <attvalue for="4" value="10011100" />
           <attvalue for="5" value="3" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
       <node id="John Story" label="John Story">
@@ -1254,7 +1141,6 @@
           <attvalue for="3" value="1681" />
           <attvalue for="4" value="10011613" />
           <attvalue for="5" value="6" />
-          <attvalue for="6" value="6" />
         </attvalues>
       </node>
       <node id="Thomas Story" label="Thomas Story">
@@ -1265,7 +1151,6 @@
           <attvalue for="3" value="1742" />
           <attvalue for="4" value="10011614" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="Thomas Ellwood" label="Thomas Ellwood">
@@ -1276,7 +1161,6 @@
           <attvalue for="3" value="1713" />
           <attvalue for="4" value="10003945" />
           <attvalue for="5" value="8" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="William Simpson" label="William Simpson">
@@ -1287,7 +1171,6 @@
           <attvalue for="3" value="1671" />
           <attvalue for="4" value="10011114" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="4" />
         </attvalues>
       </node>
       <node id="Samuel Bownas" label="Samuel Bownas">
@@ -1298,7 +1181,6 @@
           <attvalue for="3" value="1753" />
           <attvalue for="4" value="10001390" />
           <attvalue for="5" value="1" />
-          <attvalue for="6" value="1" />
         </attvalues>
       </node>
       <node id="John Perrot" label="John Perrot">
@@ -1309,7 +1191,6 @@
           <attvalue for="3" value="1665" />
           <attvalue for="4" value="10009584" />
           <attvalue for="5" value="7" />
-          <attvalue for="6" value="2" />
         </attvalues>
       </node>
       <node id="Hannah Stranger" label="Hannah Stranger">
@@ -1320,7 +1201,6 @@
           <attvalue for="3" value="1671" />
           <attvalue for="4" value="10011632" />
           <attvalue for="5" value="2" />
-          <attvalue for="6" value="0" />
         </attvalues>
       </node>
     </nodes>
